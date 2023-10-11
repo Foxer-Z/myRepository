@@ -1,3 +1,4 @@
+foxerz098.github.io
 use [editor on GitHub](https://github.com/Foxer-Z/myRepository/edit/master/README.md)
 
 [Jekyll](https://jekyllrb.com)
@@ -5,3 +6,4 @@ use [editor on GitHub](https://github.com/Foxer-Z/myRepository/edit/master/READM
 ##header2
 ###header3
 ###header4>side
+.github.io
